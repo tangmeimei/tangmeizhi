@@ -10,6 +10,7 @@
 	- Bootstrap
 	- React with Redux
 	- React Native
+	- Vue
 
 
 - 👯 I’m looking for a Front-end development. 
